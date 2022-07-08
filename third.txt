@@ -13,4 +13,4 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 
 
-Wanted to learn git revert command.
+Checking revert command.
