@@ -1,4 +1,2 @@
 Hello world!!
-I love programming!
-Learning about git cherry pick.
 
