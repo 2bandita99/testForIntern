@@ -1,3 +1,2 @@
 Hello world!!
-
-Learning git revert command
+Learn JavaScript, React and Java for your tasks.
